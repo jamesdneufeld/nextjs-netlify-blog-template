@@ -15,7 +15,12 @@ export default function Index() {
           <h1>
             Hi, We're Next.js & Netlify<span className="fancy">.</span>
           </h1>
-          <p>Testing.</p>
+          <ul>
+          <li>
+          Update in your favourite text editor like Brackets</li>
+          <li>Push to Git with Github Desktop.</li>
+          <li>See changes on Netlify</li>
+          </ul>
           <span className="handle">@nextjs-netlify-blog</span>
           <h2>A blog template with Next.js and Netlify.</h2>
           <SocialList />
